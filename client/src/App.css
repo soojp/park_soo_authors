@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  align-items: center;
+  margin: 0rem;
+  padding: 1rem;
+}
+
+table tr th{
+  padding: 1rem;
+}
+
+
